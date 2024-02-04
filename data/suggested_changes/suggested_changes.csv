@@ -1,196 +1,245 @@
-Name,Current Role,Suggested Role,Similarity Score
-Taj Bradley,Setup Pitcher,Starting Pitcher,0.9983889584291348
-Brandon Pfaadt,Long Reliever,Starting Pitcher,0.9983283191818368
-Tony Gonsolin,Long Reliever,Starting Pitcher,0.9979920148115491
-Seth Martinez,Setup Pitcher,Long Reliever,0.9977421386106217
-Chris Murphy,Middle Reliever,Long Reliever,0.9968448229300297
-Joan Adon,Starting Pitcher,Long Reliever,0.996782351473764
-Luis Severino,Setup Pitcher,Starting Pitcher,0.9966177900966101
-Tucker Davidson,Starting Pitcher,Long Reliever,0.9965370502642589
-GA©nesis Cabrera,Setup Pitcher,Closer,0.9964767543641064
-Seranthony DomA­nguez,Middle Reliever,Closer,0.996403039563597
-Jose Hernandez,Setup Pitcher,Closer,0.9963371732723446
-Luis Medina,Long Reliever,Starting Pitcher,0.9962241516427613
-Sam Long,Middle Reliever,Long Reliever,0.995662807161445
-JosA© Ruiz,Setup Pitcher,Long Reliever,0.995412441575663
-Daniel Lynch IV,Starting Pitcher,Long Reliever,0.9953971556597575
-Roansy Contreras,Starting Pitcher,Long Reliever,0.9953563392966325
-Cal Quantrill,Middle Reliever,Starting Pitcher,0.9952937279480183
-Nate Pearson,Setup Pitcher,Middle Reliever,0.9950889773944785
-JosA© Cisnero,Setup Pitcher,Closer,0.9949360678665294
-Michael Lorenzen,Setup Pitcher,Starting Pitcher,0.994385478291844
-Ron Marinaccio,Setup Pitcher,Closer,0.9941973874754019
-Michael Rucker,Middle Reliever,Long Reliever,0.9939121975139703
-Mason Thompson,Setup Pitcher,Long Reliever,0.9938549670085258
-Rafael Montero,Setup Pitcher,Starting Pitcher,0.9937232349232323
-Andrew Chafin,Setup Pitcher,Closer,0.9937023244399729
-Peter Lambert,Starting Pitcher,Middle Reliever,0.9931084682613214
-Aaron Loup,Middle Reliever,Long Reliever,0.9931000368330641
-Jesse Scholtens,Setup Pitcher,Long Reliever,0.9929408009654199
-Mason Englert,Setup Pitcher,Long Reliever,0.9929367450011197
-Jorge LA3pez,Setup Pitcher,Long Reliever,0.9929335712112114
-Dominic Leone,Setup Pitcher,Long Reliever,0.9929292692644246
-Ken Waldichuk,Starting Pitcher,Setup Pitcher,0.9928647988356881
-Trevor Gott,Middle Reliever,Closer,0.9925163464130757
-Brandon Bielak,Middle Reliever,Starting Pitcher,0.9924956687405173
-Phil Bickford,Middle Reliever,Starting Pitcher,0.9922965300393617
-Ryan Feltner,Starting Pitcher,Long Reliever,0.9922657092465433
-Taylor Clarke,Setup Pitcher,Long Reliever,0.992119227706566
-AndrA©s Machado,Setup Pitcher,Long Reliever,0.9919234302489373
-Trevor Williams,Long Reliever,Starting Pitcher,0.9918159978335268
-Jared Shuster,Starting Pitcher,Long Reliever,0.9917541067356891
-Erasmo RamA­rez,Setup Pitcher,Long Reliever,0.9917104393145404
-Jovani Moran,Middle Reliever,Setup Pitcher,0.9916609335446035
-James Kaprielian,Middle Reliever,Long Reliever,0.991412971856503
-Albert Abreu,Setup Pitcher,Long Reliever,0.9913936465212588
-Drew VerHagen,Setup Pitcher,Closer,0.99134762127186
-JosA© Butto,Starting Pitcher,Setup Pitcher,0.9911995581161621
-Shintaro Fujinami,Setup Pitcher,Closer,0.9911887942340155
-Michael Kopech,Setup Pitcher,Starting Pitcher,0.9911792421552384
-Scott McGough,Setup Pitcher,Starting Pitcher,0.9910546255055883
-Xzavion Curry,Starting Pitcher,Middle Reliever,0.9909511657813459
-Patrick Sandoval,Setup Pitcher,Starting Pitcher,0.9907836994769923
-JP Sears,Middle Reliever,Starting Pitcher,0.99077712634629
-Carlos HernA¡ndez,Middle Reliever,Closer,0.9906892488007236
-Corey Kluber,Starting Pitcher,Long Reliever,0.9905813266759657
-Jose Cuas,Middle Reliever,Closer,0.9904661904398651
-Cory Abbott,Middle Reliever,Long Reliever,0.990177203192675
-Jordan Lyles,Long Reliever,Starting Pitcher,0.9891383978560038
-Tim Hill,Setup Pitcher,Long Reliever,0.9887464995668749
-Carlos RodA3n,Starting Pitcher,Long Reliever,0.9885913682333086
-Hogan Harris,Middle Reliever,Setup Pitcher,0.9876583093680925
-Kyle Muller,Middle Reliever,Long Reliever,0.9874386047949687
-Aaron Bummer,Setup Pitcher,Closer,0.987421727850924
-Connor Seabold,Starting Pitcher,Long Reliever,0.9872605793264596
-JosA© UreA±a,Middle Reliever,Long Reliever,0.9855337943906647
-Chase Silseth,Starting Pitcher,Setup Pitcher,0.9831469348093418
-Drew Rom,Starting Pitcher,Long Reliever,0.9827721420599217
-Jimmy Lambert,Middle Reliever,Long Reliever,0.9816292849393883
-Xzavion Curry,Starting Pitcher,Setup Pitcher,0.9802909970104303
-Daniel Bard,Closer,Long Reliever,0.9774584998666945
-Thaddeus Ward,Setup Pitcher,Long Reliever,0.9765354381659401
-Brad Keller,Starting Pitcher,Long Reliever,0.9763517607934423
-Ronel Blanco,Setup Pitcher,Long Reliever,0.9762459653756559
-Spencer Turnbull,Starting Pitcher,Setup Pitcher,0.9756936372314857
-Connor Seabold,Starting Pitcher,Setup Pitcher,0.9727303234818
-Jackson Kowar,Closer,Setup Pitcher,0.9716107720561192
-Zack Littell,Setup Pitcher,Closer,0.9703094314747951
-Luis Medina,Long Reliever,Setup Pitcher,0.967562632056577
-Peter Lambert,Starting Pitcher,Setup Pitcher,0.9647862903004881
-Hogan Harris,Middle Reliever,Setup Pitcher,0.9636851089445393
-Dylan Dodd,Starting Pitcher,Long Reliever,0.963472756412678
-Jaime Barria,Long Reliever,Setup Pitcher,0.9630261693813372
-Andrew SuA¡rez,Setup Pitcher,Long Reliever,0.9573064232060322
-Stephen Nogosek,Long Reliever,Setup Pitcher,0.9562880800154315
-Thomas Hatch,Middle Reliever,Setup Pitcher,0.9472567421810495
-Casey Lawrence,Middle Reliever,Setup Pitcher,0.9461796889819684
-Cole Ragans,Starting Pitcher,Setup Pitcher,0.9461759554625089
-Keegan Akin,Middle Reliever,Setup Pitcher,0.9436845719921106
-Amir Garrett,Closer,Setup Pitcher,0.9428943255171996
-Cole Sands,Closer,Setup Pitcher,0.9425935010491834
-Matt Barnes,Closer,Setup Pitcher,0.9386153741832539
-Luis Cessa,Setup Pitcher,Long Reliever,0.9323226819214093
-Dany JimA©nez,Closer,Setup Pitcher,0.9317530054456058
-JosA© Suarez,Middle Reliever,Long Reliever,0.9286106504526644
-Chris Flexen,Starting Pitcher,Setup Pitcher,0.9247438573734089
-Karl Kauffmann,Middle Reliever,Setup Pitcher,0.9245237019541719
-Tommy Hunter,Middle Reliever,Setup Pitcher,0.9163978405289114
-Connor Phillips,Starting Pitcher,Setup Pitcher,0.9130691478934955
-Jackson Rutledge,Starting Pitcher,Setup Pitcher,0.9118706120467581
-Tommy Doyle,Middle Reliever,Setup Pitcher,0.905537460241992
-Trey Wingenter,Closer,Setup Pitcher,0.9055046105317095
-Luis PatiA±o,Middle Reliever,Setup Pitcher,0.9031239522236265
-Hobie Harris,Middle Reliever,Setup Pitcher,0.8992309483096629
-Dakota Hudson,Long Reliever,Setup Pitcher,0.8973814669544823
-Kyle Muller,Middle Reliever,Setup Pitcher,0.8938590624719186
-Justin Garza,Middle Reliever,Setup Pitcher,0.8918289264959753
-Collin Snider,Middle Reliever,Setup Pitcher,0.8893635605340954
-Ian Kennedy,Closer,Setup Pitcher,0.8836303688034746
-Reiver Sanmartin,Starting Pitcher,Setup Pitcher,0.875261022935513
-Tayler Scott,Middle Reliever,Setup Pitcher,0.8727994621339745
-Dylan Coleman,Middle Reliever,Setup Pitcher,0.8701344819505693
-Triston McKenzie,Closer,Setup Pitcher,0.8677079499477041
-Luis L. Ortiz,Starting Pitcher,Setup Pitcher,0.865116589231568
-Deivi GarcA­a,Starting Pitcher,Setup Pitcher,0.8527505631626641
-Madison Bumgarner,Starting Pitcher,Long Reliever,0.8475638985515546
-Drew Rucinski,Starting Pitcher,Long Reliever,0.8466993668498358
-Chase Silseth,Starting Pitcher,Setup Pitcher,0.8464767248569625
-Anthony Kay,Middle Reliever,Setup Pitcher,0.8370768548507864
-Tyson Miller,Long Reliever,Setup Pitcher,0.8346615994207557
-Garrett Hill,Middle Reliever,Setup Pitcher,0.8286734027889187
-Eduardo Salazar,Closer,Setup Pitcher,0.8278151940625196
-Devin Smeltzer,Middle Reliever,Setup Pitcher,0.8273861841976973
-Lyon Richardson,Starting Pitcher,Setup Pitcher,0.8257935716162201
-Kirby Snead,Middle Reliever,Setup Pitcher,0.8077918339946741
-Roansy Contreras,Starting Pitcher,Setup Pitcher,0.8076683781722738
-Freddy Tarnok,Closer,Setup Pitcher,0.7895759144340688
-Kolby Allard,Middle Reliever,Setup Pitcher,0.7881096782082676
-Karl Kauffmann,Middle Reliever,Setup Pitcher,0.7843714911177401
-Jonathan Heasley,Starting Pitcher,Setup Pitcher,0.7800369165062959
-Brandon Bielak,Middle Reliever,Setup Pitcher,0.7793761355153326
-Tyler Anderson,Starting Pitcher,Setup Pitcher,0.7519106718094988
-Corey Kluber,Starting Pitcher,Setup Pitcher,0.7427568086953016
-Tommy Milone,Long Reliever,Setup Pitcher,0.7414855240941668
-Jeremiah Estrada,Closer,Setup Pitcher,0.7394084798727072
-Anthony Banda,Middle Reliever,Setup Pitcher,0.7364176699673832
-Domingo Acevedo,Closer,Setup Pitcher,0.7297519916701285
-JosA© Suarez,Middle Reliever,Setup Pitcher,0.7115844892140702
-JosA© Marte,Closer,Setup Pitcher,0.7089975529887388
-Chase De Jong,Starting Pitcher,Setup Pitcher,0.6990592335043802
-Matt Festa,Closer,Setup Pitcher,0.6914671045804796
-Cody Morris,Middle Reliever,Setup Pitcher,0.6896561670771361
-Evan Justice,Middle Reliever,Setup Pitcher,0.6846142608216775
-Fernando Abad,Middle Reliever,Setup Pitcher,0.6790550806575528
-Steven Cruz,Closer,Setup Pitcher,0.6738359307523865
-Glenn Otto,Starting Pitcher,Setup Pitcher,0.6655140187788767
-Adrian Morejon,Starting Pitcher,Setup Pitcher,0.6642220261623384
-Steven Cruz,Closer,Setup Pitcher,0.6627248624115255
-Devin Sweet,Closer,Setup Pitcher,0.6559747524608702
-Ryan Weathers,Long Reliever,Setup Pitcher,0.643677462506073
-JosA© Butto,Starting Pitcher,Setup Pitcher,0.6424534024660362
-Simeon Woods Richardson,Starting Pitcher,Setup Pitcher,0.6409647424844533
-Thomas Hatch,Middle Reliever,Setup Pitcher,0.6400113631119683
-Antonio Senzatela,Starting Pitcher,Setup Pitcher,0.6304645513834973
-Carlos HernA¡ndez,Middle Reliever,Setup Pitcher,0.6304134969183994
-Brooks Kriske,Closer,Setup Pitcher,0.6236659190020067
-Ethan Small,Starting Pitcher,Setup Pitcher,0.6148041982998795
-Anthony DeSclafani,Starting Pitcher,Setup Pitcher,0.611155186813348
-Colten Brewer,Middle Reliever,Setup Pitcher,0.60981500791703
-Jhonathan Diaz,Long Reliever,Setup Pitcher,0.6050926204837579
-Devin Smeltzer,Middle Reliever,Setup Pitcher,0.6025343982035003
-Johnny Cueto,Long Reliever,Setup Pitcher,0.6021494294783216
-Zack Burdi,Middle Reliever,Setup Pitcher,0.6020322774927882
-Garrett Acton,Middle Reliever,Setup Pitcher,0.5911856276354218
-Spenser Watkins,Closer,Setup Pitcher,0.5833642609893434
-Spencer Howard,Middle Reliever,Setup Pitcher,0.5714641658232317
-Dereck RodrA­guez,Middle Reliever,Setup Pitcher,0.5570292932593918
-Robbie Ray,Starting Pitcher,Setup Pitcher,0.5568029779048834
-Anthony Veneziano,Middle Reliever,Setup Pitcher,0.5555375640677087
-Freddy Tarnok,Closer,Setup Pitcher,0.5499422763280607
-Luis PatiA±o,Middle Reliever,Setup Pitcher,0.54840004263762
-Jose Cuas,Middle Reliever,Setup Pitcher,0.5482566008359013
-Michael Mariot,Middle Reliever,Setup Pitcher,0.5475821155615799
-Nick Hernandez,Middle Reliever,Setup Pitcher,0.5453955421080958
-James Kaprielian,Middle Reliever,Setup Pitcher,0.5350234394295463
-Randy Wynne,Middle Reliever,Setup Pitcher,0.5348241046668117
-Carlos Vargas,Closer,Setup Pitcher,0.5337867092310165
-Caleb Kilian,Starting Pitcher,Setup Pitcher,0.5337704782746168
-Mychal Givens,Closer,Setup Pitcher,0.5334439379857626
-Adrian Morejon,Starting Pitcher,Setup Pitcher,0.5296715414251656
-Owen White,Closer,Setup Pitcher,0.5267083992897962
-Wes Parsons,Starting Pitcher,Setup Pitcher,0.5212049727601845
-McKinley Moore,Middle Reliever,Setup Pitcher,0.519350091833254
-Paolo Espino,Setup Pitcher,Long Reliever,0.5146911641013553
-Tony Santillan,Middle Reliever,Setup Pitcher,0.5080777389391016
-Jhonathan Diaz,Long Reliever,Setup Pitcher,0.49737854130473247
-Daniel Castano,Long Reliever,Setup Pitcher,0.47717378845143243
-Adam Oller,Setup Pitcher,Long Reliever,0.4760971749026828
-Clayton Andrews,Setup Pitcher,Long Reliever,0.4506860075303747
-Reiss Knehr,Middle Reliever,Long Reliever,0.4267922338311714
-Alex ColomA©,Closer,Setup Pitcher,0.4165155307146402
-Paul Blackburn,Starting Pitcher,Setup Pitcher,0.4093031843169975
-Alec Mills,Middle Reliever,Long Reliever,0.39796702931674555
-Erich Uelmen,Middle Reliever,Setup Pitcher,0.3938884302486809
-Yacksel RA­os,Middle Reliever,Long Reliever,0.3822579153017551
-Jake Reed,Middle Reliever,Long Reliever,0.310024966844227
-Johan Quezada,Setup Pitcher,Long Reliever,0.2857879758751629
+Name,PlayerId,Current Role,Suggested Role,Similarity Score
+Seth Martinez,21045,Setup Pitcher,Middle Reliever,0.9999907291582087
+Jose Hernandez,22318,Setup Pitcher,Middle Reliever,0.9999875909042982
+Daniel Lynch IV,21537,Starting Pitcher,Middle Reliever,0.9999855092101244
+Tucker Davidson,19871,Starting Pitcher,Long Reliever,0.9999848557967115
+Nate Pearson,20160,Setup Pitcher,Middle Reliever,0.9999846978087845
+Joan Adon,22925,Starting Pitcher,Middle Reliever,0.9999828938247227
+Taj Bradley,22543,Setup Pitcher,Starting Pitcher,0.999981690367733
+Roansy Contreras,22810,Starting Pitcher,Long Reliever,0.9999814528913755
+Seranthony DomA­nguez,19249,Middle Reliever,Closer,0.9999804915308856
+Ron Marinaccio,23488,Setup Pitcher,Middle Reliever,0.9999785153099963
+Mason Thompson,21850,Setup Pitcher,Long Reliever,0.9999778415257641
+Mason Englert,22288,Setup Pitcher,Long Reliever,0.9999745287209342
+Xzavion Curry,25595,Starting Pitcher,Middle Reliever,0.9999713449921599
+Ryan Feltner,21446,Starting Pitcher,Middle Reliever,0.9999701539181068
+JosA© Soriano,22100,Setup Pitcher,Middle Reliever,0.9999533698471976
+Carlos HernA¡ndez,22713,Middle Reliever,Closer,0.9999532796776471
+James Karinchak,20151,Setup Pitcher,Middle Reliever,0.999952694792851
+Peter Lambert,17969,Starting Pitcher,Closer,0.999951701476358
+Jesse Scholtens,19205,Setup Pitcher,Closer,0.9999394398311563
+Luis L. Ortiz,27646,Starting Pitcher,Long Reliever,0.9999388276631003
+GA©nesis Cabrera,17490,Setup Pitcher,Closer,0.9999321609912855
+Tony Gonsolin,19388,Long Reliever,Starting Pitcher,0.999926655779897
+Shintaro Fujinami,31839,Setup Pitcher,Middle Reliever,0.9999241187941306
+Jared Shuster,27472,Starting Pitcher,Middle Reliever,0.9999238393462996
+Ronel Blanco,19407,Setup Pitcher,Middle Reliever,0.999923551050676
+Jaime Barria,18356,Long Reliever,Closer,0.9999220786091415
+Cole Ragans,21846,Starting Pitcher,Closer,0.9999150677378991
+Spencer Turnbull,16207,Starting Pitcher,Long Reliever,0.9999130851871156
+Thaddeus Ward,21513,Setup Pitcher,Middle Reliever,0.9999119145613525
+Dakota Hudson,19206,Long Reliever,Closer,0.9998908511760837
+Connor Seabold,19695,Starting Pitcher,Closer,0.9998874964915112
+Drew VerHagen,13424,Setup Pitcher,Starting Pitcher,0.9998860157819064
+Drew Rom,24602,Starting Pitcher,Middle Reliever,0.9998837008990875
+Peter Lambert,17969,Starting Pitcher,Middle Reliever,0.999883603084711
+JosA© Butto,23313,Starting Pitcher,Middle Reliever,0.9998814257001932
+Jimmy Herget,17556,Setup Pitcher,Middle Reliever,0.9998798373702632
+James Kaprielian,18331,Middle Reliever,Closer,0.9998792693576697
+Luis Medina,21649,Long Reliever,Starting Pitcher,0.9998756565510829
+Connor Seabold,19695,Starting Pitcher,Middle Reliever,0.9998755955878146
+Jesse Scholtens,19205,Setup Pitcher,Middle Reliever,0.9998720196054021
+Jalen Beeks,17192,Setup Pitcher,Middle Reliever,0.9998605095706649
+Cal Quantrill,19312,Middle Reliever,Starting Pitcher,0.9998593982986448
+Jackson Kowar,21549,Closer,Middle Reliever,0.9998589295232126
+Andrew SuA¡rez,18300,Setup Pitcher,Middle Reliever,0.9998551144017435
+JosA© Ruiz,14552,Setup Pitcher,Closer,0.999854358215516
+Jaime Barria,18356,Long Reliever,Middle Reliever,0.9998521777801536
+Kevin Herget,15369,Setup Pitcher,Middle Reliever,0.9998520240776856
+AndrA©s Machado,14681,Setup Pitcher,Closer,0.9998520027489012
+Brandon Pfaadt,27782,Long Reliever,Closer,0.9998477905787206
+Brent Honeywell,16466,Long Reliever,Closer,0.9998474837473766
+Connor Brogdon,21205,Setup Pitcher,Middle Reliever,0.9998465548584174
+Phil Bickford,18519,Middle Reliever,Starting Pitcher,0.999838668657719
+Kyle Muller,20167,Middle Reliever,Closer,0.9998321241673136
+Stephen Nogosek,19545,Long Reliever,Middle Reliever,0.9998263591159942
+Ken Waldichuk,27681,Starting Pitcher,Middle Reliever,0.9998259484336182
+Gavin Hollowell,25427,Setup Pitcher,Middle Reliever,0.9998242404578779
+Taylor Clarke,17611,Setup Pitcher,Closer,0.9998170438970175
+Albert Abreu,17485,Setup Pitcher,Closer,0.9998118438844888
+Trevor Gott,15046,Middle Reliever,Starting Pitcher,0.9997940958833669
+Aaron Bummer,16258,Setup Pitcher,Starting Pitcher,0.9997907184673069
+Luis Medina,21649,Long Reliever,Middle Reliever,0.9997890143871008
+Brandon Bielak,19866,Middle Reliever,Closer,0.9997818281137837
+Amir Garrett,14375,Closer,Setup Pitcher,0.9997783802516295
+Brad Keller,15734,Starting Pitcher,Closer,0.9997752448700559
+Jose Cuas,17701,Middle Reliever,Starting Pitcher,0.9997735348465456
+Matt Barnes,12863,Closer,Setup Pitcher,0.9997681174109306
+Jorge LA3pez,14527,Setup Pitcher,Starting Pitcher,0.9997611274890198
+Ross Stripling,13273,Long Reliever,Closer,0.999756727052893
+Andrew Chafin,12988,Setup Pitcher,Starting Pitcher,0.9997489869611503
+Tim Herrin,25139,Setup Pitcher,Middle Reliever,0.9997360719487305
+Xzavion Curry,25595,Starting Pitcher,Middle Reliever,0.9997355093742205
+Grant Hartwig,29946,Setup Pitcher,Middle Reliever,0.9997288362693754
+Chris Flexen,13896,Starting Pitcher,Long Reliever,0.9997245798765164
+Luis Cessa,13345,Setup Pitcher,Long Reliever,0.9997197965028747
+Chad Kuhl,14975,Setup Pitcher,Long Reliever,0.9997193697185023
+Chase Silseth,30074,Starting Pitcher,Middle Reliever,0.9997094205039371
+Peyton Battenfield,25777,Setup Pitcher,Middle Reliever,0.9997088432059137
+Cole Sands,21461,Closer,Middle Reliever,0.9997000634322879
+Cole Ragans,21846,Starting Pitcher,Middle Reliever,0.9996997009799157
+Noah Davis,25862,Setup Pitcher,Middle Reliever,0.9996950524496594
+Cody Bolton,23265,Setup Pitcher,Middle Reliever,0.9996936951312251
+Ross Stripling,13273,Long Reliever,Closer,0.9996849965091162
+Dylan Dodd,29928,Starting Pitcher,Middle Reliever,0.9996773465494037
+Zack Littell,15823,Setup Pitcher,Middle Reliever,0.9996762785565576
+Jordan Balazovic,21866,Setup Pitcher,Middle Reliever,0.9996683869208781
+Josh Staumont,18335,Setup Pitcher,Middle Reliever,0.999654223856901
+Dany JimA©nez,21170,Closer,Middle Reliever,0.999653736266772
+Brent Headrick,27702,Setup Pitcher,Middle Reliever,0.9996478758839954
+Adam Cimber,15288,Setup Pitcher,Middle Reliever,0.9996411169222948
+Amos Willingham,26128,Setup Pitcher,Middle Reliever,0.9996381510228717
+Trey Wingenter,17793,Closer,Middle Reliever,0.9996372966551633
+Casey Lawrence,11121,Middle Reliever,Setup Pitcher,0.9996361089265862
+Dominic Leone,13763,Setup Pitcher,Starting Pitcher,0.9996337427288745
+Zack Littell,15823,Setup Pitcher,Starting Pitcher,0.9996304310747911
+Mike Mayers,15451,Setup Pitcher,Middle Reliever,0.9996266975795787
+Kaleb Ort,20061,Setup Pitcher,Middle Reliever,0.9996093482477529
+Gus Varland,24737,Setup Pitcher,Middle Reliever,0.9996003345428931
+Josh Taylor,17359,Setup Pitcher,Middle Reliever,0.9995794755935945
+Dakota Hudson,19206,Long Reliever,Middle Reliever,0.9995620313376504
+Jorge Alcala,19459,Setup Pitcher,Middle Reliever,0.9995616810849751
+Dinelson Lamet,17186,Setup Pitcher,Middle Reliever,0.9995570199963261
+Triston McKenzie,18000,Closer,Middle Reliever,0.9995549340529238
+Jalen Beeks,17192,Setup Pitcher,Middle Reliever,0.9995543767480574
+Adam Oller,20132,Setup Pitcher,Middle Reliever,0.9995519919111554
+Reiver Sanmartin,19754,Starting Pitcher,Middle Reliever,0.9995510738562204
+Nick Robertson,26226,Setup Pitcher,Middle Reliever,0.9995414970699874
+James Naile,18186,Setup Pitcher,Middle Reliever,0.999539562675781
+Chad Kuhl,14975,Setup Pitcher,Middle Reliever,0.9995358008994176
+Kenny Rosenberg,20009,Setup Pitcher,Middle Reliever,0.9995269101192142
+Taylor Hearn,18325,Setup Pitcher,Middle Reliever,0.999524305396135
+Javy Guerra,17292,Setup Pitcher,Middle Reliever,0.9995186543313155
+Connor Phillips,27649,Starting Pitcher,Middle Reliever,0.9995006962183123
+Kenny Rosenberg,20009,Setup Pitcher,Middle Reliever,0.9994952112699347
+Jackson Rutledge,26215,Starting Pitcher,Middle Reliever,0.9994822939111501
+Ronel Blanco,19407,Setup Pitcher,Middle Reliever,0.9994815570587623
+Luis Severino,15890,Setup Pitcher,Starting Pitcher,0.9994793514627092
+Deivi GarcA­a,20276,Starting Pitcher,Middle Reliever,0.9994739429266463
+Rafael Montero,12760,Setup Pitcher,Starting Pitcher,0.9994692920362444
+Nabil Crismatt,17732,Setup Pitcher,Middle Reliever,0.9994625806354557
+Mitch White,19225,Setup Pitcher,Middle Reliever,0.999459699913149
+Erasmo RamA­rez,10314,Setup Pitcher,Starting Pitcher,0.999442458224025
+Anthony Misiewicz,18152,Setup Pitcher,Middle Reliever,0.9994331550693661
+JosA© UreA±a,11589,Middle Reliever,Starting Pitcher,0.9994295044098378
+Lyon Richardson,24581,Starting Pitcher,Middle Reliever,0.9994287630258561
+Colin Selby,24986,Setup Pitcher,Middle Reliever,0.9994259770524831
+Dennis Santana,17878,Setup Pitcher,Middle Reliever,0.9994138134694049
+Bryce Jarvis,27477,Setup Pitcher,Middle Reliever,0.9994113024977846
+Tyson Miller,19976,Long Reliever,Middle Reliever,0.9994111325320335
+Gerardo Reyes,16306,Setup Pitcher,Middle Reliever,0.9993945129424642
+Yerry RodrA­guez,21955,Setup Pitcher,Middle Reliever,0.999377092258103
+Aaron Loup,10343,Middle Reliever,Starting Pitcher,0.9993769367971529
+Rico Garcia,20023,Setup Pitcher,Middle Reliever,0.9993578407861601
+Brandon Hughes,23460,Setup Pitcher,Middle Reliever,0.9993566933962449
+Roansy Contreras,22810,Starting Pitcher,Middle Reliever,0.9993529965427347
+Scott McGough,12056,Setup Pitcher,Starting Pitcher,0.9993517000275358
+Shintaro Fujinami,31839,Setup Pitcher,Middle Reliever,0.9993466089213989
+Dinelson Lamet,17186,Setup Pitcher,Middle Reliever,0.9993449631580322
+Drew Rucinski,12499,Starting Pitcher,Long Reliever,0.9993374297879991
+Garrett Crochet,27463,Setup Pitcher,Middle Reliever,0.999330077893746
+Joel Kuhnel,19995,Setup Pitcher,Middle Reliever,0.9993286791578925
+Daniel Norris,13475,Setup Pitcher,Middle Reliever,0.9993257753669947
+Peter Solomon,20476,Setup Pitcher,Middle Reliever,0.999321841393554
+Eduardo Salazar,23135,Closer,Middle Reliever,0.9993195563572286
+Freddy Tarnok,23324,Closer,Middle Reliever,0.9993161931298701
+Jonathan Heasley,22224,Starting Pitcher,Middle Reliever,0.9993156289037589
+Spencer Patton,12361,Setup Pitcher,Middle Reliever,0.9993138106962928
+Josh Walker,23617,Setup Pitcher,Middle Reliever,0.9993087298266956
+Luis L. Ortiz,27646,Starting Pitcher,Middle Reliever,0.99929509295708
+Casey Legumina,25921,Setup Pitcher,Middle Reliever,0.9992893980032858
+Brett Kennedy,17877,Setup Pitcher,Middle Reliever,0.999285733376775
+Connor Overton,18376,Setup Pitcher,Middle Reliever,0.9992724145275312
+Chase Silseth,30074,Starting Pitcher,Middle Reliever,0.9992651704487889
+Jeremiah Estrada,22210,Closer,Middle Reliever,0.9992605261620211
+Justin Martinez,24453,Setup Pitcher,Middle Reliever,0.99925613638246
+Logan Gillaspie,22461,Setup Pitcher,Middle Reliever,0.9992537688277432
+Tyler Anderson,12880,Starting Pitcher,Middle Reliever,0.9992481405265716
+Domingo Acevedo,17092,Closer,Middle Reliever,0.9992377612373676
+Zack Kelly,20349,Setup Pitcher,Middle Reliever,0.9992269041994154
+JosA© Marte,21761,Closer,Middle Reliever,0.999186688791238
+Declan Cronin,25645,Setup Pitcher,Middle Reliever,0.9991858042949553
+Wil Crowe,19800,Setup Pitcher,Middle Reliever,0.9991813685180817
+Mike Mayers,15451,Setup Pitcher,Middle Reliever,0.9991657780898869
+Matt Festa,19330,Closer,Middle Reliever,0.9991396112980983
+Easton Lucas,26058,Setup Pitcher,Middle Reliever,0.9991283221832992
+Glenn Otto,21366,Starting Pitcher,Middle Reliever,0.9990965652329462
+Steven Cruz,23165,Closer,Middle Reliever,0.9990910529215485
+Adrian Morejon,20039,Starting Pitcher,Middle Reliever,0.9990882247322479
+Devin Sweet,25348,Closer,Middle Reliever,0.9990816708790764
+Carson Fulmer,18311,Setup Pitcher,Middle Reliever,0.9990680909924301
+Steven Cruz,23165,Closer,Middle Reliever,0.9990530905738982
+Ryan Weathers,23796,Long Reliever,Middle Reliever,0.9990513496061549
+Zach Muckenhirn,20209,Setup Pitcher,Middle Reliever,0.9990446707916384
+Sam Coonrod,17264,Setup Pitcher,Middle Reliever,0.9990364653016117
+Simeon Woods Richardson,24494,Starting Pitcher,Middle Reliever,0.9990282878834799
+JosA© Butto,23313,Starting Pitcher,Middle Reliever,0.9990163206500977
+Brooks Kriske,21189,Closer,Middle Reliever,0.9990133881599659
+Kyle Nicolas,27775,Setup Pitcher,Middle Reliever,0.9990118736598471
+Chase De Jong,15036,Starting Pitcher,Middle Reliever,0.9989937773078459
+Ethan Small,26364,Starting Pitcher,Middle Reliever,0.9989858096192834
+Matt Gage,17381,Setup Pitcher,Middle Reliever,0.9989854593024575
+Kolton Ingram,26068,Setup Pitcher,Middle Reliever,0.9989802549962828
+Noah Davis,25862,Setup Pitcher,Middle Reliever,0.9989767299921297
+Antonio Senzatela,15488,Starting Pitcher,Middle Reliever,0.9989613155834798
+Jhonathan Diaz,20298,Long Reliever,Middle Reliever,0.9989525733271203
+Daysbel HernA¡ndez,20271,Setup Pitcher,Middle Reliever,0.998948851061998
+Archie Bradley,12918,Setup Pitcher,Middle Reliever,0.998947344889961
+Geoff Hartlieb,19558,Setup Pitcher,Middle Reliever,0.9989262956651059
+Michael Lorenzen,14843,Setup Pitcher,Middle Reliever,0.9989179400115215
+JosA© Lopez,22982,Setup Pitcher,Middle Reliever,0.9989054619320232
+Mason Englert,22288,Setup Pitcher,Middle Reliever,0.9988976181034626
+Zach Neal,11294,Setup Pitcher,Middle Reliever,0.9988907956199878
+Freddy Tarnok,23324,Closer,Middle Reliever,0.9988756843508354
+Victor Mederos,31533,Setup Pitcher,Middle Reliever,0.9988713440061096
+Yerry RodrA­guez,21955,Setup Pitcher,Middle Reliever,0.9988560089898995
+Cole Waites,25665,Setup Pitcher,Middle Reliever,0.9988416508316603
+Caleb Kilian,26213,Starting Pitcher,Middle Reliever,0.9988406801696009
+Adrian Morejon,20039,Starting Pitcher,Middle Reliever,0.9988384478893253
+Spenser Watkins,17489,Closer,Middle Reliever,0.9988378673865058
+Kaleb Ort,20061,Setup Pitcher,Middle Reliever,0.9988195495247003
+Anthony DeSclafani,13050,Starting Pitcher,Middle Reliever,0.9988099547858343
+Bryce Jarvis,27477,Setup Pitcher,Middle Reliever,0.9988092495536345
+Cole Sulser,15256,Setup Pitcher,Middle Reliever,0.9988085572042567
+Owen White,22273,Closer,Middle Reliever,0.9988036717087664
+Jhonathan Diaz,20298,Long Reliever,Middle Reliever,0.9987833972316065
+Carlos Vargas,22915,Closer,Middle Reliever,0.9987808223335233
+Nick Burdi,16074,Setup Pitcher,Middle Reliever,0.9987808148249196
+Brad Hand,9111,Closer,Starting Pitcher,0.9987204370638555
+Scott McGough,12056,Setup Pitcher,Middle Reliever,0.9987146398147503
+Kyle Barraclough,13713,Setup Pitcher,Middle Reliever,0.9986888231100904
+Nick Robertson,26226,Setup Pitcher,Middle Reliever,0.9986664648162962
+Michael Kopech,17282,Setup Pitcher,Middle Reliever,0.9984988332452098
+Matt Dermody,14844,Setup Pitcher,Middle Reliever,0.998497862146894
+Tommy Milone,7608,Long Reliever,Setup Pitcher,0.9983865433822819
+Daniel Castano,19805,Long Reliever,Middle Reliever,0.9983812792781301
+JP Sears,23429,Middle Reliever,Starting Pitcher,0.9983683434986207
+Adam Oller,20132,Setup Pitcher,Middle Reliever,0.9983350083615817
+Javy Guerra,17292,Setup Pitcher,Middle Reliever,0.998334849665739
+Alex Speas,21859,Setup Pitcher,Middle Reliever,0.9983052150735059
+Clayton Andrews,23631,Setup Pitcher,Middle Reliever,0.9982801270636251
+Luis Severino,15890,Setup Pitcher,Middle Reliever,0.9982168138426787
+Ian Kennedy,6986,Closer,Setup Pitcher,0.9981712328411856
+Wes Parsons,14764,Starting Pitcher,Middle Reliever,0.9980749265571052
+Robbie Ray,11486,Starting Pitcher,Middle Reliever,0.998040515650638
+Kyle Leahy,24763,Setup Pitcher,Middle Reliever,0.998010073195523
+Mychal Givens,10430,Closer,Middle Reliever,0.9975481289164164
+Patrick Sandoval,19447,Setup Pitcher,Starting Pitcher,0.9974369148933747
+Michael Kopech,17282,Setup Pitcher,Starting Pitcher,0.9973414956881879
+Johnny Cueto,6893,Long Reliever,Setup Pitcher,0.9972667053944971
+Johnny Cueto,6893,Long Reliever,Starting Pitcher,0.9967175579076814
+Paul Blackburn,14739,Starting Pitcher,Middle Reliever,0.9965779624070458
+Reyes Moronta,14966,Setup Pitcher,Middle Reliever,0.9965512544432803
+Daniel Bard,7115,Closer,Starting Pitcher,0.9957327098869687
+Michael Lorenzen,14843,Setup Pitcher,Starting Pitcher,0.9953954107352386
+Trevor Williams,16977,Long Reliever,Starting Pitcher,0.9953315776400088
+Madison Bumgarner,5524,Starting Pitcher,Closer,0.9944619586934113
+Fernando Abad,4994,Middle Reliever,Setup Pitcher,0.994224860775853
+Yacksel RA­os,15007,Middle Reliever,Long Reliever,0.9939532052507137
+JosA© Cisnero,6399,Setup Pitcher,Starting Pitcher,0.9930976541590858
+Johan Quezada,20643,Setup Pitcher,Long Reliever,0.9921799442952303
+Alex ColomA©,6661,Closer,Setup Pitcher,0.9895610249441618
+Jake Reed,16209,Middle Reliever,Long Reliever,0.9880135444550686
+Jordan Lyles,7593,Long Reliever,Starting Pitcher,0.9390200298623895
+Tommy Hunter,1157,Middle Reliever,Starting Pitcher,0.8663150509057581
+Matt Bush,1246,Setup Pitcher,Starting Pitcher,0.8516054194158336
