@@ -55,37 +55,5 @@ pip install -r requirements.txt
 ## Streamlit
 This project uses [Streamlit](https://streamlit.io/) to create the web application. Follow the link to view the custom streamlit dashboard, showing the full results of the analysis. 
 
-[Mendoza_Line_Streamlit_Dashboard](https://share.streamlit.io/your-github-username/your-repo-name/your-app-name.py)
+[Mendoza_Line_Streamlit_Dashboard](https://redspitchinghackathonteammendozaline-luhu4vubicyfxzvubm5fb4.streamlit.app/)
 
-# Results
-## Screenshots and Top Players Chosen
-Include logo/screenshots/animations if available.
-
-## Usage
-How to use your project, step-by-step.
-
-## Code Examples & Figures
-Show examples of usage:
-`put-your-code-here`
-
-# Conclusions
-## Development & Next Steps
-Describe the development stage of your project.
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-- Improvement to be done 1
-- Improvement to be done 2
-- ...
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-## Contact
-Created by [@YourUsername](https://your-website.com/) - feel free to contact me!
-
-## License
-This project is open source and available under the [... License](LICENSE).
