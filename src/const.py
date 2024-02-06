@@ -16,15 +16,15 @@ general_player_info = {
 
 ### Pitching Metrics
 pitcher_performance_metric= {
-    "G": "General Pitcher Performance Metric",
-    "GS": "General Pitcher Performance Metric",
-    "IP": "General Pitcher Performance Metric",
-    "TBF": "General Pitcher Performance Metric",
-    "W": "General Pitcher Performance Metric",
-    "L": "General Pitcher Performance Metric",
-    "CG": "General Pitcher Performance Metric",
-    "ShO": "General Pitcher Performance Metric",
-    "SV": "General Pitcher Performance Metric",
+    #"G": "General Pitcher Performance Metric",
+    #"GS": "General Pitcher Performance Metric",
+    #"IP": "General Pitcher Performance Metric",
+    #"TBF": "General Pitcher Performance Metric",
+    #"W": "General Pitcher Performance Metric",
+    #"L": "General Pitcher Performance Metric",
+    #"CG": "General Pitcher Performance Metric",
+    #"ShO": "General Pitcher Performance Metric",
+    #"SV": "General Pitcher Performance Metric",
     "BS": "General Pitcher Performance Metric",
     "HLD": "General Pitcher Performance Metric",
     "SD": "General Pitcher Performance Metric",
@@ -337,6 +337,7 @@ pitch_timing_metrics = {
 
 wins_above_replacement = {
     "RA9_WAR": "Wins Above Replacement",
+    "WAR": "Wins Above Replacement"
 }
 
 catcher_framing = {
@@ -592,7 +593,7 @@ quadrant4_feature_loadings = {
 
 ### Combine all dictionaries into one
 
-combined_metrics = {
+combined_metrics_1 = {
     "pitcher_performance_metric": pitcher_performance_metric,
     "pitching_metrics": pitching_metrics,
     "advanced_pitching_metrics": advanced_pitching_metrics,
@@ -616,4 +617,26 @@ combined_metrics = {
     "quadrant2_feature_loadings": quadrant2_feature_loadings,
     "quadrant3_feature_loadings": quadrant3_feature_loadings,
     "quadrant4_feature_loadings": quadrant4_feature_loadings
+}
+
+combined_metrics_2 = {
+    "pitcher_performance_metric": pitcher_performance_metric,
+    "pitching_metrics": pitching_metrics,
+    "advanced_pitching_metrics": advanced_pitching_metrics,
+    "pitching_metrics_plus": pitching_metrics_plus,
+    "weighted_pitch_type_runs_statcast": weighted_pitch_type_runs_statcast,
+    "pitch_movement_statcast": pitch_movement_statcast,
+    "pitch_type_speed_statcast": pitch_type_speed_statcast,
+    "pitch_type_percentages_statcast": pitch_type_percentages_statcast,
+    "pitch_control": pitch_control,
+    "contact_metrics": contact_metrics,
+    "hitter_performance_metrics": hitter_performance_metrics,
+    "hitter_performance_metrics_statcast": hitter_performance_metrics_statcast,
+    "exit_velocity_metrics": exit_velocity_metrics,
+    "hitter_performance_metrics_plus": hitter_performance_metrics_plus,
+    "pitch_timing_metrics": pitch_timing_metrics,
+    "wins_above_replacement": wins_above_replacement,
+    "catcher_framing": catcher_framing,
+    "clutch_factor": clutch_factor,
+    "leverage_index": leverage_index
 }
