@@ -208,31 +208,3 @@ def parse_and_visualize_stats(combined_stats_str, player_name):
 
     return fig
 
-"""def parse_and_visualize_stats(stats_str, player_name):
-    stats = parse_stats_column(stats_str)
-    metrics, z_scores = zip(*stats)  # Unpack the list of tuples
-    z_scores = [float(z) for z in z_scores]  # Convert string z-scores to float
-
-    # Determine bar colors based on z-score sign
-    bar_colors = ['green' if z > 0 else 'red' for z in z_scores]
-
-    # Create a DataFrame from the parsed metrics and z-scores
-    df = pd.DataFrame({'Metric': metrics, 'Z-Score': z_scores})
-
-    # Create the bar chart using Plotly Graph Objects for more customization
-    fig = go.Figure(data=[
-        go.Bar(
-            x=metrics,
-            y=z_scores,
-            marker_color=bar_colors
-        )
-    ])
-    # Update chart layout
-    fig.update_layout(
-        title=f'{player_name} Stats Within One Std Dev of Elite Mean',
-        xaxis_title='Metrics',
-        yaxis_title='Z-Score',
-        coloraxis_showscale=False,  # Hide color scale bar
-    )
-
-    return fig"""
