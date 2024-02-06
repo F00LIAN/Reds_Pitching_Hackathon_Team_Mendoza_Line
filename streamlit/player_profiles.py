@@ -4,10 +4,28 @@ import pandas as pd
 import sys
 import os
 
-# reference main directory in existing folder
-current_dir = os.getcwd()
-parent_dir = os.path.dirname(current_dir)
-sys.path.append(r'c:\reds_pitching_hackathon_team_mendoza_line')
+import sys
+from pathlib import Path
+
+# Get the absolute path of the directory where the script is located
+current_script_directory = Path(__file__).resolve().parent
+
+# go back one directory
+current_script_directory = current_script_directory.parent
+
+
+# Define the directory name you want to add to sys.path
+#directory_name = 'reds_pitching_hackathon_team_mendoza_line'
+
+# Construct the absolute path to the directory
+directory_path = current_script_directory #/ directory_name
+
+# Check if the directory exists before adding it to sys.path
+if not directory_path.is_dir():
+    raise FileNotFoundError(f"The directory {directory_path} does not exist.")
+
+# Add the directory to sys.path
+sys.path.append(str(directory_path))
 
 
 from src.const import *
