@@ -201,7 +201,7 @@ def parse_and_visualize_stats(combined_stats_str, player_name):
 
     # Update chart layout
     fig.update_layout(
-        title=f'{player_name} Stats Within and Beyond One Std Dev of Elite Mean',
+        title=f'{player_name} Distribution of Stats around the Elite Pitching Mean',
         xaxis_title='Metrics',
         yaxis_title='Z-Score'
     )
