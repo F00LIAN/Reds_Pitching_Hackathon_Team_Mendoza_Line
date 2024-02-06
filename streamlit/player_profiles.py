@@ -63,26 +63,29 @@ st.title('Pitcher Role Suggestions ⚾')
 st.image(reds_image_path, caption='2024 Cincinnati Reds Hackathon', use_column_width=True)
 
 # For each top pitcher, provide an explanation for the suggested role
-#chosen_players = suboptimal_pitchers[suboptimal_pitchers['Name'].isin(['Daniel Lynch IV', 'Chase Silseth', 'Jovani Moran'])]
 
+#chosen_players = suboptimal_pitchers[suboptimal_pitchers['Name'].isin(['Daniel Lynch IV', 'Chase Silseth', 'Jovani Moran'])]
 st.header('Our Top Three Chosen Players')
 for index, player in chosen_player.iterrows():
     st.subheader(f"{player['Name']} (Player ID: {player['PlayerId']})")
     st.write(f"**Current Role:** {player['Current Role']}")
     st.write(f"**Suggested Role:** {player['Suggested Role']}")
 
-    # Parse and visualize positive stats
-    pos_stats_str = player['Positive Stats Within One Std Dev of Elite Mean']
-    if pos_stats_str:  # Check if the string is not empty
-        pos_fig = parse_and_visualize_stats(pos_stats_str, player['Name'])
-        st.plotly_chart(pos_fig, use_container_width=True)
-    
-    # Parse and visualize negative stats
-    neg_stats_str = player['Negative Stats Within One Std Dev of Elite Mean']
-    if neg_stats_str:  # Check if the string is not empty
-        neg_fig = parse_and_visualize_stats(neg_stats_str, player['Name'])
-        st.plotly_chart(neg_fig, use_container_width=True)
+    # Collect stats within one standard deviation
+    pos_stats_within_str = player['Positive Stats Within One Std Dev of Elite Mean']
+    neg_stats_within_str = player['Negative Stats Within One Std Dev of Elite Mean']
+    combined_within_str = (pos_stats_within_str or '') + ',' + (neg_stats_within_str or '')
 
+    # Collect stats beyond one standard deviation
+    pos_stats_beyond_str = player['Positive Stats Beyond One Std Dev of Elite Mean']  # Assuming you have this column
+    neg_stats_beyond_str = player['Negative Stats Beyond One Std Dev of Elite Mean']  # Assuming you have this column
+    combined_beyond_str = (pos_stats_beyond_str or '') + ',' + (neg_stats_beyond_str or '')
+
+    # Combine all stats and visualize
+    combined_stats_str = combined_within_str + ',' + combined_beyond_str
+    if combined_stats_str:
+        fig = parse_and_visualize_stats(combined_stats_str, player['Name'])
+        st.plotly_chart(fig, use_container_width=True)
 
 # Display the top pitchers and their suggested roles
 st.header('Our Full List of Suboptimal Pitchers and Their Suggested Roles')

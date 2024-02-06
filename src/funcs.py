@@ -172,7 +172,43 @@ def parse_stats_column(stats_str):
     pattern = r'(\w+)\s\(z-score:\s([-\d.]+)\)'
     return re.findall(pattern, stats_str)
 
-def parse_and_visualize_stats(stats_str, player_name):
+def parse_and_visualize_stats(combined_stats_str, player_name):
+    """
+    Visualizes the stats and z-scores using a bar chart, including stats within and beyond one standard deviation.
+    
+    :param combined_stats_str: String containing stats and z-scores both within and beyond one std dev in the format 'metric (z-score: value)'
+    :param player_name: Name of the player to be used in the chart title
+    """
+    # Parse the combined stats string to get metrics and their z-scores
+    stats = parse_stats_column(combined_stats_str)
+    metrics, z_scores = zip(*stats) if stats else ([], [])
+    z_scores = [float(z) for z in z_scores]  # Convert string z-scores to float
+    
+    # Assign colors based on z-scores magnitude and sign
+    colors = ['lightgreen' if z >= 0 and abs(z) < 1 else 'darkgreen' if z >= 0 else 'lightcoral' if abs(z) < 1 else 'darkred' for z in z_scores]
+
+    # Create a DataFrame from the parsed metrics and z-scores
+    df = pd.DataFrame({'Metric': metrics, 'Z-Score': z_scores, 'Color': colors})
+
+    # Create the bar chart using Plotly Graph Objects for more customization
+    fig = go.Figure(data=[
+        go.Bar(
+            x=df['Metric'],
+            y=df['Z-Score'],
+            marker_color=df['Color']
+        )
+    ])
+
+    # Update chart layout
+    fig.update_layout(
+        title=f'{player_name} Stats Within and Beyond One Std Dev of Elite Mean',
+        xaxis_title='Metrics',
+        yaxis_title='Z-Score'
+    )
+
+    return fig
+
+"""def parse_and_visualize_stats(stats_str, player_name):
     stats = parse_stats_column(stats_str)
     metrics, z_scores = zip(*stats)  # Unpack the list of tuples
     z_scores = [float(z) for z in z_scores]  # Convert string z-scores to float
@@ -199,4 +235,4 @@ def parse_and_visualize_stats(stats_str, player_name):
         coloraxis_showscale=False,  # Hide color scale bar
     )
 
-    return fig
+    return fig"""
