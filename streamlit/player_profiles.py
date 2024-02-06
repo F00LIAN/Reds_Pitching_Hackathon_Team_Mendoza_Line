@@ -4,7 +4,10 @@ import pandas as pd
 import sys
 import os
 
-sys.path.append(r'\Projects\reds_pitching_hackathon_team_mendoza_line')
+# reference main directory in existing folder
+current_dir = os.getcwd()
+parent_dir = os.path.dirname(current_dir)
+sys.path.append(r'c:\reds_pitching_hackathon_team_mendoza_line')
 
 
 from src.const import *
