@@ -2,7 +2,10 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 import sys
-sys.path.append('\Projects\REDS_BASEBALL_PITCHING_PROJECT')
+import os
+
+sys.path.append(r'\Projects\reds_pitching_hackathon_team_mendoza_line')
+
 
 from src.const import *
 from src.funcs import *
@@ -31,8 +34,7 @@ suboptimal_mean_by_role.rename(columns={'Unnamed: 0': 'Stat'}, inplace=True)
 
 # Images Path
 reds_image_path = r'image.png'
-chase_silseth_image_path = r'chase_silseth.png'
-daniel_lync_iv_image_path = r'daniel_lynch.jpg'
+
 # Print TItle
 st.title('Pitcher Role Suggestions ⚾')
 
